@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=donkwitflip&theme=blue-green"> 
 
-# Hello! 👋 i`m kwitflip! (Szymon)
+# Hello! 👋 i`m kwitflip! (Szymon B.)
 
 I`m Junior Web Developer
 ## Contact:
